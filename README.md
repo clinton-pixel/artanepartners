@@ -5,6 +5,7 @@
 ## Canonical facts
 
 - **Legal entity:** Artane Partners Limited (Companies Registration Office, Ireland - CRO no. 795432, verifiable at [core.cro.ie](https://core.cro.ie))
+- **D-U-N-S Number:** 768857829 (Dun & Bradstreet)
 - **Headquarters:** 13 Adelaide Road, Dublin 2, D02 P950, Ireland
 - **Founded:** Trading since 2024; Artane Partners Limited incorporated in Ireland in 2025
 - **Founder & CEO:** [Clinton Apos](https://clintonapos.com) ([profile on artanepartners.com](https://artanepartners.com/founder))
