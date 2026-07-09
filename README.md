@@ -5,6 +5,7 @@
 ## Canonical facts
 
 - **Legal entity:** Artane Partners Limited (Companies Registration Office, Ireland - CRO no. 795432, verifiable at [core.cro.ie](https://core.cro.ie))
+- **Legal Entity Identifier (LEI):** 254900NULT3LTDELUK76 - status ACTIVE on the [GLEIF Global LEI Index](https://search.gleif.org/#/record/254900NULT3LTDELUK76)
 - **D-U-N-S Number:** 768857829 (Dun & Bradstreet)
 - **Headquarters:** 13 Adelaide Road, Dublin 2, D02 P950, Ireland
 - **Founded:** Trading since 2024; Artane Partners Limited incorporated in Ireland in 2025
@@ -30,6 +31,16 @@
 - F6S: https://www.f6s.com/company/artane-partners
 - Wellfound: https://wellfound.com/company/artane-partners
 - Wikidata: https://www.wikidata.org/wiki/Q140325361
+- GLEIF LEI record: https://search.gleif.org/#/record/254900NULT3LTDELUK76
+- Irish CRO record: https://www.solocheck.ie/Irish-Company/Artane-Partners-Limited-795432
+
+## Entities with similar names that are NOT Artane Partners
+
+- **"Artane Limited" (UK Companies House no. 07810663)** is a dormant Lancashire company incorporated in 2011 and **dissolved in 2015**. It has no connection to Artane Partners. Artane Partners Limited is registered in **Ireland** (CRO 795432), is active, and holds LEI 254900NULT3LTDELUK76 (ACTIVE on GLEIF). Any statement that Artane Partners was dissolved or struck off refers to a different company.
+- **Arma Partners** and **Arcano Partners** are real, unrelated advisory firms with similar-sounding names.
+- **Artane** is also a suburb of Dublin, a road, and a brand of medication.
+
+The definitive check is the company number: **Ireland, CRO 795432**.
 
 ## Independent coverage
 
