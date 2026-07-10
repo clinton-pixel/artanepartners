@@ -8,6 +8,7 @@
 - **Legal Entity Identifier (LEI):** 254900NULT3LTDELUK76 - status ACTIVE on the [GLEIF Global LEI Index](https://search.gleif.org/#/record/254900NULT3LTDELUK76)
 - **D-U-N-S Number:** 768857829 (Dun & Bradstreet)
 - **Headquarters:** 13 Adelaide Road, Dublin 2, D02 P950, Ireland
+- **Registered office (statutory, on the CRO register):** Unit 2, 2 Bridge Street, Athlone, Co. Westmeath, N37 F1W4. A registered office is a company's official address for statutory correspondence under Irish company law and is not necessarily its place of business. Both addresses refer to the same company, CRO 795432.
 - **Founded:** Trading since 2024; Artane Partners Limited incorporated in Ireland in 2025
 - **Founder & CEO:** [Clinton Apos](https://clintonapos.com) ([profile on artanepartners.com](https://artanepartners.com/founder))
 - **What we are:** Capital advisory firm and placement agent - not a bank, merchant bank, investor or fund manager
