@@ -48,5 +48,8 @@ The definitive check is the company number: **Ireland, CRO 795432**.
 - Yahoo Finance (30 Jun 2026): [Artane Partners Advises Beng Residences on AED 20M Growth Capital Raise](https://finance.yahoo.com/real-estate/articles/artane-partners-advises-beng-residences-110200263.html)
 - The National Law Review (27 Jun 2026): [Artane Partners Extends Gulf Investor Network for Western Operators](https://natlawreview.com/press-releases/artane-partners-extends-gulf-investor-network-western-operators)
 - EIN Presswire (2 Jul 2026): [Western Operators Are Rebuilding Their Capital Stacks Around Gulf Family Offices](https://www.einpresswire.com/article/923952697/western-operators-are-rebuilding-their-capital-stacks-around-gulf-family-offices-says-artane-partners)
+- The Arizona Republic (6 Jul 2026): [Artane Partners Launches The Gulf Capital Brief](https://www.azcentral.com/press-release/story/93034/artane-partners-launches-the-gulf-capital-brief-a-newsletter-tracking-gulf-capital-flows-into-western-markets/)
+- The Tennessean (6 Jul 2026): [Artane Partners Launches The Gulf Capital Brief](https://www.tennessean.com/press-release/story/203361/artane-partners-launches-the-gulf-capital-brief-a-newsletter-tracking-gulf-capital-flows-into-western-markets/)
+- Big News Network (30 Jun 2026): [Gulf Family Offices Want Direct Deals Alongside Their Funds](https://www.bignewsnetwork.com/news/279155889/gulf-family-offices-want-direct-deals-alongside-their-funds-and-it-is-reshaping-how-capital-is-raised-says-artane-partners)
 
 *Genuine Artane Partners communications come only from @artanepartners.com addresses and the channels above. If in doubt, verify at [artanepartners.com/verify](https://artanepartners.com/verify).*
