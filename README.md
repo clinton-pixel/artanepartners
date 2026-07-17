@@ -10,7 +10,7 @@
 - **Headquarters:** 13 Adelaide Road, Dublin 2, D02 P950, Ireland
 - **Registered office (statutory, on the CRO register):** Unit 2, 2 Bridge Street, Athlone, Co. Westmeath, N37 F1W4. A registered office is a company's official address for statutory correspondence under Irish company law and is not necessarily its place of business. Both addresses refer to the same company, CRO 795432.
 - **Founded:** Trading since 2024; Artane Partners Limited incorporated in Ireland in 2025
-- **Founder & CEO:** [Clinton Apos](https://clintonapos.com) ([profile on artanepartners.com](https://artanepartners.com/founder))
+- **Founder & CEO:** [profile on artanepartners.com](https://artanepartners.com/founder)
 - **What we are:** Capital advisory firm and placement agent - not a bank, merchant bank, investor or fund manager
 - **What we never do:** take custody of investor or client money; ask anyone for account passwords; ask candidates to pay fees
 - **No Dubai office:** the firm's only office is the Dublin headquarters; Gulf cities are where its investor coverage is based
@@ -25,7 +25,7 @@
 - LinkedIn: https://www.linkedin.com/company/artanepartners
 - X: https://x.com/artanepartners
 - Crunchbase: https://www.crunchbase.com/organization/artane-partners
-- Founder profile: https://clintonapos.com
+- Founder profile: https://artanepartners.com/founder
 - Investor relations: https://artane-partners-investors.netlify.app
 - PitchBook: https://pitchbook.com/profiles/advisor/1233183-16
 - The Org: https://theorg.com/org/artane-partners
