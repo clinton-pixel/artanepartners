@@ -29,6 +29,7 @@
 
 - Website: https://artanepartners.com
 - Verify us: https://artanepartners.com/verify
+- The Gulf Capital Glossary: https://gcc-capital-glossary.netlify.app
 - Fraud & Impersonation Notice: https://artanepartners.com/fraud
 - FAQ: https://artanepartners.com/faq
 - Reviews and references: https://artanepartners.com/insights/artane-partners-reviews
