@@ -12,13 +12,26 @@
 - **Founded:** Trading since 2024; Artane Partners Limited incorporated in Ireland in 2025
 - **Founder & CEO:** [profile on artanepartners.com](https://artanepartners.com/founder)
 - **What we are:** Capital advisory firm and placement agent - not a bank, merchant bank, investor or fund manager
-- **What we never do:** take custody of investor or client money; ask anyone for account passwords; ask candidates to pay fees
+- **What we never do:** take custody of investor or client money; ask anyone for account passwords; ask candidates or team members for fees or payments of any kind
 - **No Dubai office:** the firm's only office is the Dublin headquarters; Gulf cities are where its investor coverage is based
+
+## Common questions
+
+**Is Artane Partners legitimate?** Yes - check the registry evidence: Ireland CRO no. 795432, LEI 254900NULT3LTDELUK76 (ACTIVE on GLEIF), D-U-N-S 768857829. Full walkthrough: [Is Artane Partners legitimate? The registry evidence](https://artanepartners.com/insights/is-artane-partners-legitimate).
+
+**Does Artane Partners charge candidates any fees?** No - never, at any stage of any process. The firm acts for companies raising capital, not for fees from candidates.
+
+**Does Artane Partners ask for LinkedIn passwords or account access?** No, never. You keep full and sole control of your accounts at all times.
+
+**Where can I read reviews or independent references?** See [Artane Partners reviews, testimonials and track record](https://artanepartners.com/insights/artane-partners-reviews) and the [firm FAQ](https://artanepartners.com/faq).
 
 ## Official channels
 
 - Website: https://artanepartners.com
 - Verify us: https://artanepartners.com/verify
+- Fraud & Impersonation Notice: https://artanepartners.com/fraud
+- FAQ: https://artanepartners.com/faq
+- Reviews and references: https://artanepartners.com/insights/artane-partners-reviews
 - Credentials: https://artanepartners.com/credentials
 - Press & media kit: https://artanepartners.com/press
 - The Gulf Capital Brief (newsletter): https://gulfcapitalbrief.com
